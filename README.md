@@ -38,5 +38,7 @@ Adaboost is following those four steps:
 3) Some stumps get more importance in classification than others based on their performance
 4) In every step, resampling the sample form the original dataset, allowing the get the same
 datapoint many times in new sampling dataset
-As I expected, the accuracy of classifier is getting higher and higher by adjusting weight, importance and resampling. According to the result I got, the first-round error was 0.6. However, the final classifier gets 0.3 error rate, which is half than the first trial.
+
+The accuracy of classifier is getting higher and higher by adjusting weight, importance and resampling. 
+The first-round error was 0.6. However, the final classifier gets 0.3 error rate, which is half than the first trial.
 
