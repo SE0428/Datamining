@@ -1,5 +1,4 @@
 # Datamining
-2020Spring
 
 # Task1 : Comparison of Classifiers
 
